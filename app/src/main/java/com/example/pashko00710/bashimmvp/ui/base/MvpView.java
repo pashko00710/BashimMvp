@@ -1,0 +1,1 @@
+package com.example.pashko00710.bashimmvp.ui.base;public interface MvpView {}

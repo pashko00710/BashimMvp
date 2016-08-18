@@ -1,0 +1,1 @@
+<resources>    <string name="app_name">BashimMvp</string>    <string name="no_internet_error">Check your connection!</string>    <string name="empty_list_msg">This list is empty!</string></resources>

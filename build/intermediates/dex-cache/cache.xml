@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/pashko00710/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.3.1/99ce730034c6f5aaed710d1e0e9df95e8714ed5f/logging-interceptor-3.3.1.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="99ce730034c6f5aaed710d1e0e9df95e8714ed5f">
+        <dex dex="/Users/pashko00710/AndroidStudioProjects/BashimMvp/app/build/intermediates/transforms/dex/debug/folders/1000/10/logging-interceptor-3.3.1_3d029686ad66fcb0c17130fd51f5c6d1cfc11ef5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/pashko00710/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/2.0.1/516c03b21d50a644d538de0f0369c620989cd8f0/jsr305-2.0.1.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="/Users/pashko00710/AndroidStudioProjects/BashimMvp/app/build/intermediates/transforms/dex/debug/folders/1000/10/jsr305-2.0.1_b4fa011e78caefbfe5828530b5c048fbd794be6c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/pashko00710/AndroidStudioProjects/BashimMvp/app/build/intermediates/exploded-aar/com.jakewharton.timber/timber/4.1.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="aba9abcfe7ce6d935add115f5ce20254b037d583">
+        <dex dex="/Users/pashko00710/AndroidStudioProjects/BashimMvp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton.timber-timber-4.1.2_5751f564ed7027fcf0a5b67da52e1386d988d17e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/pashko00710/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/pashko00710/AndroidStudioProjects/BashimMvp/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.1.0_d04bc4a403ab8db960a4b2d04cd00160735bfe72/classes.dex" />
+    </item>
+    <item
+        jar="/Users/pashko00710/AndroidStudioProjects/BashimMvp/app/build/intermediates/exploded-aar/com.squareup.sqldelight/runtime/0.4.4/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="cab6682b507aed76b7bcc86a1116988e1af421a6">
+        <dex dex="/Users/pashko00710/AndroidStudioProjects/BashimMvp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.squareup.sqldelight-runtime-0.4.4_6983ea7f4648e1f75e562865ded836900ffec07e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/pashko00710/.gradle/caches/modules-2/files-2.1/com.squareup.leakcanary/leakcanary-watcher/1.4-beta2/6a920fb0d14e5e3b36e37cf33b1eeef2bcce4c92/leakcanary-watcher-1.4-beta2.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="6a920fb0d14e5e3b36e37cf33b1eeef2bcce4c92">
+        <dex dex="/Users/pashko00710/AndroidStudioProjects/BashimMvp/app/build/intermediates/transforms/dex/debug/folders/1000/10/leakcanary-watcher-1.4-beta2_b5f3a52e6ab59f07ed2338a07a4276ed48d82753/classes.dex" />
+    </item>
+    <item
+        jar="/Users/pashko00710/.gradle/caches/modules-2/files-2.1/com.google.dagger/dagger/2.4/6b290a792253035c9fcc912d6a4d7efb3e850211/dagger-2.4.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="6b290a792253035c9fcc912d6a4d7efb3e850211">
+        <dex dex="/Users/pashko00710/AndroidStudioProjects/BashimMvp/app/build/intermediates/transforms/dex/debug/folders/1000/10/dagger-2.4_6a76a7eb6783b9fc8b4b4345d9ee5ab5e1dae275/classes.dex" />
+    </item>
+    <item
+        jar="/Users/pashko00710/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.5/ece7b5d0870e66d8226dab6dcf47a2b12afff061/rxjava-1.1.5.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="ece7b5d0870e66d8226dab6dcf47a2b12afff061">
+        <dex dex="/Users/pashko00710/AndroidStudioProjects/BashimMvp/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-1.1.5_6fb729266655c963fe70ba1f38334c35372e289f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/pashko00710/AndroidStudioProjects/BashimMvp/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/pashko00710/AndroidStudioProjects/BashimMvp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_6d5e14a2c06f82990b7b28c8706e29b0880ee8c5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/pashko00710/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/pashko00710/AndroidStudioProjects/BashimMvp/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.1.0_28ad8f36c38e0ec387f96a3b6a7dfd6e821b9055/classes.dex" />
+    </item>
+    <item
+        jar="/Users/pashko00710/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/pashko00710/AndroidStudioProjects/BashimMvp/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_7b13e804cd7f69e59f5f2aac0b3a2075508e3fa9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/pashko00710/.gradle/caches/modules-2/files-2.1/commons-cli/commons-cli/1.2/2bf96b7aa8b611c177d329452af1dc933e14501c/commons-cli-1.2.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2bf96b7aa8b611c177d329452af1dc933e14501c">
+        <dex dex="/Users/pashko00710/AndroidStudioProjects/BashimMvp/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-cli-1.2_98df9536314db984d8ce7f32777a7693a0365974/classes.dex" />
+    </item>
+    <item
+        jar="/Users/pashko00710/AndroidStudioProjects/BashimMvp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="a7fdae782ef29dcb3344f822bf21542bf087dee1">
+        <dex dex="/Users/pashko00710/AndroidStudioProjects/BashimMvp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e8972afc0f564aa18baf481df4f5d9f6b297d0fa/classes.dex" />
+    </item>
+    <item
+        jar="/Users/pashko00710/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.0.1/345b89f45d02d8b09400b472fab7b7e38f4ede1f/butterknife-annotations-8.0.1.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="345b89f45d02d8b09400b472fab7b7e38f4ede1f">
+        <dex dex="/Users/pashko00710/AndroidStudioProjects/BashimMvp/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.0.1_04fb18e928092cd2333cf737a6d5d49298498f80/classes.dex" />
+    </item>
+    <item
+        jar="/Users/pashko00710/.gradle/caches/modules-2/files-2.1/org.greenrobot/eventbus/3.0.0/ddd99896e9569eaababbe81b35d80e1b91c4ad85/eventbus-3.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="/Users/pashko00710/AndroidStudioProjects/BashimMvp/app/build/intermediates/transforms/dex/debug/folders/1000/10/eventbus-3.0.0_314d62f0d8e9560bcb4d15d80cba13e8dea6dfee/classes.dex" />
+    </item>
+    <item
+        jar="/Users/pashko00710/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/pashko00710/AndroidStudioProjects/BashimMvp/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_a37d00f2c0b1b2f01808614a5b2548a49995667a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/pashko00710/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/pashko00710/AndroidStudioProjects/BashimMvp/app/build/intermediates/transforms/dex/debug/folders/1000/10/javax.inject-1_157285024d40758c899279f6e8e6d3b515b4325c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/pashko00710/AndroidStudioProjects/BashimMvp/app/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.4-beta2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="9c8472f8e10502af60d0f63ea11eed68bdf690c2">
+        <dex dex="/Users/pashko00710/AndroidStudioProjects/BashimMvp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.squareup.leakcanary-leakcanary-android-1.4-beta2_f28f24a9fc989f22ba7749719c8c6519c6975fe7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/pashko00710/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava/2.1.0/693eddc23e87ab13f9cf5001707ce8e7e1d1ff01/adapter-rxjava-2.1.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="693eddc23e87ab13f9cf5001707ce8e7e1d1ff01">
+        <dex dex="/Users/pashko00710/AndroidStudioProjects/BashimMvp/app/build/intermediates/transforms/dex/debug/folders/1000/10/adapter-rxjava-2.1.0_1edc944b6cbba7373f38f278602a9171cc373691/classes.dex" />
+    </item>
+    <item
+        jar="/Users/pashko00710/AndroidStudioProjects/BashimMvp/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="74ca46e7da11e3d065eb64cdbe6568a7ed74c211">
+        <dex dex="/Users/pashko00710/AndroidStudioProjects/BashimMvp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton-butterknife-8.0.1_a599355eb58aafaf76d57565744f0ff7e859b984/classes.dex" />
+    </item>
+    <item
+        jar="/Users/pashko00710/.gradle/caches/modules-2/files-2.1/com.facebook.stetho/stetho/1.3.1/2c4076b466a0eb4d6ddf5721edd35cd1adc1f317/stetho-1.3.1.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2c4076b466a0eb4d6ddf5721edd35cd1adc1f317">
+        <dex dex="/Users/pashko00710/AndroidStudioProjects/BashimMvp/app/build/intermediates/transforms/dex/debug/folders/1000/10/stetho-1.3.1_877055dc20efda594c38887892b2147369e6f3db/classes.dex" />
+    </item>
+    <item
+        jar="/Users/pashko00710/AndroidStudioProjects/BashimMvp/app/build/intermediates/exploded-aar/com.android.support/support-v13/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="61fd2644ca586288d0e733377d12b5f6da18c4ca">
+        <dex dex="/Users/pashko00710/AndroidStudioProjects/BashimMvp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_87b7e73bacb5c76d04be73c55e624af50e1301af/classes.dex" />
+    </item>
+    <item
+        jar="/Users/pashko00710/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.0.0/2943c74db6d4346ab8c6531adac91fa05c137c40/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/pashko00710/AndroidStudioProjects/BashimMvp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_7c2840d6523eba0d5007ab256cf73844397c6d88/classes.dex" />
+    </item>
+    <item
+        jar="/Users/pashko00710/AndroidStudioProjects/BashimMvp/app/build/intermediates/exploded-aar/com.github.paolorotolo/appintro/4.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="95b97c30c8331619a9cc560ba9c3adb806e00ead">
+        <dex dex="/Users/pashko00710/AndroidStudioProjects/BashimMvp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.paolorotolo-appintro-4.0.0_595c1a6305727e387edd09c072ad4a244244df40/classes.dex" />
+    </item>
+    <item
+        jar="/Users/pashko00710/AndroidStudioProjects/BashimMvp/app/build/intermediates/exploded-aar/com.github.bumptech.glide/okhttp-integration/1.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="5aa311c49102f3a794e5db843737dc100b5e5ce6">
+        <dex dex="/Users/pashko00710/AndroidStudioProjects/BashimMvp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.bumptech.glide-okhttp-integration-1.4.0_68e3b93d9b96a41c0f9e9a902677befa30e45192/classes.dex" />
+    </item>
+    <item
+        jar="/Users/pashko00710/AndroidStudioProjects/BashimMvp/app/build/intermediates/exploded-aar/com.github.hotchemi/permissionsdispatcher/2.1.3/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="8f012268b56e56239148960f2697b4ef138b670f">
+        <dex dex="/Users/pashko00710/AndroidStudioProjects/BashimMvp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.hotchemi-permissionsdispatcher-2.1.3_d039803e674df19ef3102b1cedcedac865a606c3/classes.dex" />
+    </item>
+    <item
+        jar="/Users/pashko00710/AndroidStudioProjects/BashimMvp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/Users/pashko00710/AndroidStudioProjects/BashimMvp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.0.0_b24bf96a419f235763ceac01f7800af82673019e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/pashko00710/AndroidStudioProjects/BashimMvp/app/build/intermediates/exploded-aar/com.squareup.sqlbrite/sqlbrite/0.6.3/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="759b95471f3e8b5e0aef8cd9057c500cdf3e0176">
+        <dex dex="/Users/pashko00710/AndroidStudioProjects/BashimMvp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.squareup.sqlbrite-sqlbrite-0.6.3_6027ecf6883914ef95404a24b5bebff5c6b60271/classes.dex" />
+    </item>
+    <item
+        jar="/Users/pashko00710/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.1/19047bdb6a4fc00a44124f64ca98e88fc204e7e3/okhttp-3.3.1.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="19047bdb6a4fc00a44124f64ca98e88fc204e7e3">
+        <dex dex="/Users/pashko00710/AndroidStudioProjects/BashimMvp/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.3.1_2133a1185bcb0a1e0ab3c7b581928589afbf7903/classes.dex" />
+    </item>
+    <item
+        jar="/Users/pashko00710/AndroidStudioProjects/BashimMvp/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="927e8ef5711b115b65b2f35495d77352be2b3c09">
+        <dex dex="/Users/pashko00710/AndroidStudioProjects/BashimMvp/app/build/intermediates/transforms/dex/debug/folders/1000/10/io.reactivex-rxandroid-1.2.0_546fbdb2a8632de1de4d350027ead2a5b97c78da/classes.dex" />
+    </item>
+    <item
+        jar="/Users/pashko00710/AndroidStudioProjects/BashimMvp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/Users/pashko00710/AndroidStudioProjects/BashimMvp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.0.0_606364984bbc8f9dfffa8c61c396ed56979a80ea/classes.dex" />
+    </item>
+    <item
+        jar="/Users/pashko00710/AndroidStudioProjects/BashimMvp/app/build/intermediates/exploded-aar/com.android.support/support-v13/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="c87270a9d828773c296fadde93e939c8190a6b1b">
+        <dex dex="/Users/pashko00710/AndroidStudioProjects/BashimMvp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v13-24.0.0_48263dc68b659543c44706c1ad114ab2172ba4ab/classes.dex" />
+    </item>
+    <item
+        jar="/Users/pashko00710/AndroidStudioProjects/BashimMvp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/Users/pashko00710/AndroidStudioProjects/BashimMvp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.0.0_6898afcd07c1054b2ac13c34009c973e240edf4b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/pashko00710/AndroidStudioProjects/BashimMvp/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="/Users/pashko00710/AndroidStudioProjects/BashimMvp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.0.0_c318160b4c7d82cd17a9523aabf22866494c8e9b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/pashko00710/.gradle/caches/modules-2/files-2.1/com.squareup.leakcanary/leakcanary-analyzer/1.4-beta2/449777cd466ac0a16f7e8d0dc508e70e2cdd13a9/leakcanary-analyzer-1.4-beta2.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="449777cd466ac0a16f7e8d0dc508e70e2cdd13a9">
+        <dex dex="/Users/pashko00710/AndroidStudioProjects/BashimMvp/app/build/intermediates/transforms/dex/debug/folders/1000/10/leakcanary-analyzer-1.4-beta2_7ee49db46dc03333c7f2aaa4e4e079dac038f4c1/classes.dex" />
+    </item>
+    <item
+        jar="/Users/pashko00710/AndroidStudioProjects/BashimMvp/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="8dd49930e4f9dde1a42d37e362b9fea8b1b69c0d">
+        <dex dex="/Users/pashko00710/AndroidStudioProjects/BashimMvp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-24.0.0_0d0a2f1ef2713168e9053f4c1b4870720ba52c2b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/pashko00710/AndroidStudioProjects/BashimMvp/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/pashko00710/AndroidStudioProjects/BashimMvp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_ac270963ac84b53a4fac51b8fc5fc6040548ff50/classes.dex" />
+    </item>
+    <item
+        jar="/Users/pashko00710/AndroidStudioProjects/BashimMvp/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Users/pashko00710/AndroidStudioProjects/BashimMvp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-multidex-1.0.1_49d93376186035c84be187424328219086a6cd21/classes.dex" />
+    </item>
+    <item
+        jar="/Users/pashko00710/.gradle/caches/modules-2/files-2.1/com.squareup.haha/haha/2.0.2/fd65b84d12d6adc77ec0e4fcaca623fc391d8679/haha-2.0.2.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fd65b84d12d6adc77ec0e4fcaca623fc391d8679">
+        <dex dex="/Users/pashko00710/AndroidStudioProjects/BashimMvp/app/build/intermediates/transforms/dex/debug/folders/1000/10/haha-2.0.2_a7af6adf04efb3f67c8ca323434bd798a7972afa/classes.dex" />
+    </item>
+    <item
+        jar="/Users/pashko00710/.gradle/caches/modules-2/files-2.1/com.facebook.stetho/stetho-okhttp3/1.3.1/c596b3b33b5a92107bb70544bb5ee35f597bc6d8/stetho-okhttp3-1.3.1.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="c596b3b33b5a92107bb70544bb5ee35f597bc6d8">
+        <dex dex="/Users/pashko00710/AndroidStudioProjects/BashimMvp/app/build/intermediates/transforms/dex/debug/folders/1000/10/stetho-okhttp3-1.3.1_269843e6449d163d368e3bdeb4b916b4f2f77af0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/pashko00710/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/Users/pashko00710/AndroidStudioProjects/BashimMvp/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.8.0_16a653b92704ed7ff05779e02b0f3547c1d93100/classes.dex" />
+    </item>
+    <item
+        jar="/Users/pashko00710/AndroidStudioProjects/BashimMvp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3b576102a70736af3817ae20fdc83b15684c9bf6">
+        <dex dex="/Users/pashko00710/AndroidStudioProjects/BashimMvp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4d236e3b26da1aeb243daad0eb5773122199e854/classes.dex" />
+    </item>
+    <item
+        jar="/Users/pashko00710/AndroidStudioProjects/BashimMvp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="/Users/pashko00710/AndroidStudioProjects/BashimMvp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.0.0_088261943e52ee8d965333ca34479e21753a2c9f/classes.dex" />
+    </item>
+
+</items>
